@@ -8,9 +8,12 @@ Steven Schwering
 Yuvraj Patel
 Rui Meng
 Ian Johnson
-Mengguo Jint
+Mengguo Jing
 Tamara Hartman
 Vincent Frigo
 Matt Borkenhagen
 Pablo Caceres
 Hettie Roebuck
+Alex Melman
+Misty Kabasa
+Matt Borman
