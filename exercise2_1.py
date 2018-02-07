@@ -11,7 +11,6 @@ win = visual.Window([800,600],color="black", units='pix')
 nameStim = visual.TextStim(win,text="", height=40, color="white",pos=[0,0])
 cross = visual.TextStim(win, text = "+", height = 40, color = "white", pos = [0,0])
 
-partVis.text = "Part 1"
 while True:
     nameShown = random.choice(firstNames)
     nameStim.setText(nameShown)
